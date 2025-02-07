@@ -1,7 +1,7 @@
 # 🛒 E-Commerce Data Analytic
 
 ## 📌 Project Overview  
-This project focuses on analyzing e-commerce datasets using **Power BI** and **SQL**, with data cleaning and preprocessing performed in **Python**. The goal is to extract meaningful insights about sales trends, customer behavior, and product performance.  
+This project focuses on analyzing e-commerce datasets using **Power BI** and **SQL**, with data cleaning and preprocessing performed in **Python**. The goal is to extract meaningful insights about sales trends, customer behavior, and product performance.
 
 ## 📂 Repository Contents  
 - **`Cleaning Ecommerce data.ipynb`** → Python notebook for data cleaning and preprocessing.  
